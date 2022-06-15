@@ -18,12 +18,12 @@ $('.menu li a').click(function(){
 });
 
 // Typing Animation Script
-var typed = new Typed(".typingdate", {
-    strings: ["5th July,2022"],
-    typeSpeed: 150,
-    backSpeed: 100,
-    loop: true
-});
+// var typed = new Typed(".typingdate", {
+//     strings: ["5th July,2022"],
+//     typeSpeed: 150,
+//     backSpeed: 100,
+//     loop: true
+// });
 
 // owl carousel script
 $('.carousel').owlCarousel({
