@@ -1832,3 +1832,52 @@
         transition: 0.3s;
     }
     /* sayantan */
+
+    /* sponsor start here*/
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img .a {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+.img img {
+    margin: 50px;
+    height: 200px;
+    width: 200px;
+    /* border-radius: 50%; */
+}
+
+@media (max-width: 500px) {
+    .img {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .img img {
+        margin: 10px;
+        height: 100px;
+        width: 100px;
+        /* border-radius: 50%; */
+    }
+    .img .a {
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-size: 15px;
+    }
+}
+
+
+/* spomsor end her ------ arghya */
