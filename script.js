@@ -29,7 +29,7 @@ var typed = new Typed(".typingdate", {
 $('.carousel').owlCarousel({
     margin: 20,
     loop: true,
-    autoplay: true,
+    // autoplay: true,
     autoplayTimeOut: 90,
     autoplayHoverPause: true,
     responsive: {
@@ -50,7 +50,7 @@ $('.carousel').owlCarousel({
 $('.fac').owlCarousel({
     margin: 20,
     loop: true,
-    autoplay: true,
+    // autoplay: true,
     autoplayTimeOut: 90,
     autoplayHoverPause: true,
     responsive: {
